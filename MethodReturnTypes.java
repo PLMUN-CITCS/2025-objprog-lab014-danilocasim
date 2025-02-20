@@ -1,4 +1,4 @@
-public class MethodDemo {
+public class MethodReturnTypes {
     public static void main(String[] args) {
         displayWelcomeMessage();
         int value1 = 20;
